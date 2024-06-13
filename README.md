@@ -45,5 +45,6 @@ O projeto é composto por três arquivos principais:
 ## Dependências
 - **Font Awesome**: Utilizado para ícones na interface. A biblioteca é carregada através de um CDN.
 
+## Referências
 - [Vídeo Tutorial do Canal Matheus Battisti](https://www.youtube.com/watch?v=HSssE1PRQcA)
  
