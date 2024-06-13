@@ -2,6 +2,7 @@
 
 ## Indice
 * [Descricção](#descrição)
+* [Imagem do prjeto](#imagem-do-projeto)
 * [Estrutura do Projeto](#estrutura-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como Utilizar](#como-utilizar)
@@ -10,6 +11,10 @@
 ## Descrição
 Este é um projeto de uma aplicação web simples de lista de tarefas (todo list) chamada "Todo Avançado". Ele permite aos usuários adicionar, editar, remover, buscar e filtrar tarefas. A aplicação utiliza HTML, CSS, e JavaScript.
  
+## Imagem do projeto 
+
+![print-To-Do-List](https://github.com/juliadutraves/To-Do-List/assets/140835384/83d941cc-f219-4d6e-a7c8-0e59f0dfa0ea)
+
 ## Estrutura do Projeto
 O projeto é composto por três arquivos principais:
 1. **index.html** - O arquivo HTML que define a estrutura da página web.
